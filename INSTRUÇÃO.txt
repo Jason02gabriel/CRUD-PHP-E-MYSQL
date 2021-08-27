@@ -2,4 +2,6 @@
 2 - INSTALE O WAMPSERVER E ESCOLHA O CHROME COMO NAVEGADOR PADRÃO.
 3 - MOVA A PASTA 'HTDOCS' PARA A PASTA WWW QUE SERA CRIADA DENTRO DA PASTA RAIZ DO WAMPSERVER(WAMP64).
 4 - INICIE O WAMPSERVER SEM FAZER ALTERAÇÕES , DEIXE TUDO PADRÃO.
-5 - ABRA O NAVEGADOR E DIGITE NO CAMPO DE PESQUISA 'http://localhost/htdocs/empresa/index.php' 
+5 - ABRA O NAVEGADOR E DIGITE NO CAMPO DE PESQUISA 'http://localhost/phpmyadmin' entre com usuario root e não digite nada na senha
+6 - No phpmyadmin click em importar e importe o arquivo 'empresa.sql'
+7 - No navegador digite no campo de pesquisa 'http://localhost/htdocs/empresa/index.php'
